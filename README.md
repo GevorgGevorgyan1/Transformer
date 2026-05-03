@@ -1,4 +1,4 @@
-# Transformer — En→De Translation
+# Transformer
 
 A from-scratch PyTorch implementation of the Transformer ("Attention Is All You Need", Vaswani et al. 2017) trained on the **Multi30k** English→German dataset.
 
